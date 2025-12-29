@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olivia Gallego 👋
+Biomedical Engineering student in Madrid focused on **AI, data, and digital health**.
 
-<!--
-**oliviagallego/oliviagallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build ML/DL projects for healthcare and imaging, combining an engineering mindset with process/operations thinking.
 
-Here are some ideas to get you started:
+## 🚀 Featured projects
+- **TesaHealth (Thesis)** — AI-assisted clinical decision support prototype  
+  https://github.com/oliviagallego/TesaHealth
+- **Medica Nova — Lung CT Malignancy Classification** (ML + radiomics)  
+  https://github.com/oliviagallego/medica-nova-lung-ct
+- **AN2DL — Martian Terrain Segmentation (U-Net)**  
+  https://github.com/oliviagallego/an2dl-martian-segmentation
+- **AN2DL — Blood Cells Classification (EfficientNet)**  
+  https://github.com/oliviagallego/an2dl-blood-cells-classification
+- **RedVital** — real-time web app connecting blood donors & hospitals  
+  https://github.com/oliviagallego/red-vital
+- **ObstetricianClinic** — database project (ERD → normalized schema)  
+  https://github.com/oliviagallego/ObstetricianClinic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+Python · SQL · TensorFlow/Keras · Computer Vision · Power BI · ML/DL · Data analysis
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/olivia-gallego-toscano/  
+Email: olivia.gallego1@outlook.com
