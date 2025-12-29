@@ -18,6 +18,7 @@ I enjoy turning clinical + operational insights into practical solutions—dashb
 - **Erasmus+ — Politecnico di Milano (2024–2025)**: e-Health, Clinical AI, Deep Learning, telemedicine methods   
 - **BSc Biomedical Engineering (Bilingual FR/ES) — CEU San Pablo (2021–2025)** 
 
+
 ### 🛠️ Featured projects
 - **TesaHealth (Thesis)** — web prototype for symptom intake → AI-generated clinical vignette + differential + urgency; clinician portal to reach consensus  
   https://github.com/oliviagallego/TesaHealth
@@ -30,6 +31,13 @@ I enjoy turning clinical + operational insights into practical solutions—dashb
 
 - **AN2DL — Blood Cells Classification (EfficientNet)** — robustness-focused augmentation & tuning  
   https://github.com/oliviagallego/an2dl-blood-cells-classification.
+  
+  - **RedVital** — real-time web app connecting blood donors and hospitals *(team project)*  
+  https://github.com/oliviagallego/red-vital
+
+- **ObstetricianClinic** — database design project (ERD → normalized schema)  
+  https://github.com/oliviagallego/ObstetricianClinic
+
 
 ### 💻 Skills
 **Programming:** Python, SQL, Java, JavaScript/Node.js, C, R, MATLAB  
