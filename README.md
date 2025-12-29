@@ -32,7 +32,7 @@ I enjoy turning clinical + operational insights into practical solutions—dashb
 - **AN2DL — Blood Cells Classification (EfficientNet)** — robustness-focused augmentation & tuning  
   https://github.com/oliviagallego/an2dl-blood-cells-classification.
   
-  - **RedVital** — real-time web app connecting blood donors and hospitals *(team project)*  
+- **RedVital** — real-time web app connecting blood donors and hospitals *(team project)*  
   https://github.com/oliviagallego/red-vital
 
 - **ObstetricianClinic** — database design project (ERD → normalized schema)  
