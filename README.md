@@ -16,7 +16,7 @@ I enjoy turning clinical + operational insights into practical solutions—dashb
 
 ### 🎓 Education
 - **Erasmus+ — Politecnico di Milano (2024–2025)**: e-Health, Clinical AI, Deep Learning, telemedicine methods   
-- **BSc Biomedical Engineering (Bilingual FR/ES) — CEU San Pablo (2021–2025)** 
+- **BSc Biomedical Engineering (Bilingual EN/ES) — CEU San Pablo (2021–2025)** 
 
 
 ### 🛠️ Featured projects
