@@ -20,7 +20,7 @@ The rest of the job was supporting the leads of 14 health-data projects, from re
 ### Clínica Universidad de Navarra, Madrid
 *Operations Intern · Jul 2024*
 
-I applied Lean to SPECT and proton therapy scheduling: mapping the times, finding the bottlenecks. I built Power BI dashboards (volume, cycle time, utilisation, cancellations) for the scheduling reviews, and proposed slot adjustments from what the timings showed.
+I timed every step of the CT workflow with the technicians who run it, to find where the machine sat idle between patients, and built the Power BI dashboards that turned those timings into a picture of how the machines were used. It fed a waiting-list review across the Madrid and Navarra sites. One month, over a summer.
 
 ## Education
 
